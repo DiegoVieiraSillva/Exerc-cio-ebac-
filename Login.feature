@@ -26,7 +26,7 @@ Então deve exibir uma mensagem de alerta "usuário inexistente"
  Esquema do Cenário: Autenticar multiplos usuários
             Quando eu digitar o <usuario>
             E a <senha>
-            Então deve exibir a <mensagem> de sucesso
+            Então deve exibir a <mensagem> de boas vindas
 
             Exemplos
             | usuario             | senha       | mensagem    |
@@ -37,3 +37,4 @@ Então deve exibir uma mensagem de alerta "usuário inexistente"
             | "carlos@ebac.com.br" | "teste@685' | "Bem vindo a EBAC-SHOP" |
             | "sandro@ebac.com.br" | "teste@823' | "Bem vindo a EBAC-SHOP" |
             | "paulo@ebac.com.br" | "teste@925' | "Bem vindo a EBAC-SHOP" |
+
