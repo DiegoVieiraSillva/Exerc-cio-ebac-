@@ -30,11 +30,12 @@ Então deve exibir uma mensagem de alerta "usuário inexistente"
 
             Exemplos
             | usuario             | senha       | mensagem    |
-            | "carla@ebac.com.br" | "teste@123' | "Bem vindo a EBAC-SHOP" |
-            | "diego@ebac.com.br" | "teste@457' | "Bem vindo a EBAC-SHOP" |
-            | "pedro@ebac.com.br" | "teste@198' | "Bem vindo a EBAC-SHOP" |
+            | "joaosilva@gmail.com" | "teste@123' | "Bem vindo a EBAC-SHOP" |
+            | "ana.martins@outlook.com" | "teste@457' | "Bem vindo a EBAC-SHOP" |
+            | "fernando_2025@yahoo.com" | "teste@198' | "Bem vindo a EBAC-SHOP" |
             | "caio@ebac.com.br" | "teste@394' | "Bem vindo a EBAC-SHOP" |
-            | "carlos@ebac.com.br" | "teste@685' | "Bem vindo a EBAC-SHOP" |
-            | "sandro@ebac.com.br" | "teste@823' | "Bem vindo a EBAC-SHOP" |
-            | "paulo@ebac.com.br" | "teste@925' | "Bem vindo a EBAC-SHOP" |
+            | "pedro.santos@icloud.com" | "teste@685' | "Bem vindo a EBAC-SHOP" |
+            | "lucas-rodrigues@hotmail.com" | "teste@823' | "Bem vindo a EBAC-SHOP" |
+            | "info@startupnova.com" | "teste@925' | "Bem vindo a EBAC-SHOP" |
+
 
